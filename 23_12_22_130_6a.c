@@ -1,3 +1,5 @@
+//Program to find factorial of a number using recursion
+
 #include <stdio.h>  
 int fact (int);  
 int main()               //main function
